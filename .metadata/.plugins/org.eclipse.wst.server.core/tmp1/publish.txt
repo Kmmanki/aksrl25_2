@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Mon Nov 04 15:06:36 KST 2019
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\k\\.m2\\repository\\org\\springframework\\spring-web\\5.1.7.RELEASE\\spring-web-5.1.7.RELEASE.jar=C\:\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\1104\\WEB-INF\\lib\\spring-web-5.1.7.RELEASE.jar
+org.eclipse.jst.jee.server\:kakarrot=C\:\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\kakarrot
+org.eclipse.jst.jee.server\:1104=C\:\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\1104

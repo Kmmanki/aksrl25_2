@@ -1,0 +1,23 @@
+package org.kakarrot.contoller;
+
+import java.sql.DriverManager;
+
+import org.junit.Test;
+
+import lombok.extern.log4j.Log4j;
+
+@Log4j
+public class MySQLConnectTEst {
+
+	@Test
+	public void testConnect() throws Exception {
+
+		// mtsql 5.6 com.mysql.jdbc.Driver
+		// mysql 6 over com.mysql.cj.jdbc.Driver
+		Class<?> clz = Class.forName("com.mysql.cj.jdbc.Driver");
+
+		log.info(clz);
+
+		Connetion con = DriverManager.getConnection("jdbc:mysql://localhost:3306/bitdb", "bit04", "bit04");
+	}
+}

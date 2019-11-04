@@ -1,0 +1,5 @@
+package org.kakarrot.timemapper;
+
+public interface TimeMapper {
+
+}

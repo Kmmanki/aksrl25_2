@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\Users\k\Documents\workspace-sts-3.9.9.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1750301933.index
+\kakarrot\src\main\java
+C:\Users\k\Documents\workspace-sts-3.9.9.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\743439801.index
+\1104\src\main\java
+C:\Users\k\Documents\workspace-sts-3.9.9.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\149886199.index
+\kakrrotSetTest\src\main\java

@@ -1,0 +1,5 @@
+package org.kakarro.sample;
+
+public interface Chef {
+
+}

@@ -1,0 +1,11 @@
+package org.kakarrot.sample;
+
+@RunWith(SpringJUnit4ClassRunner.class)
+@ContextConfiguration("file:src/main/webapp/WEB-INF/spring/root-context.xml")
+@Log4j
+public class InjectionTests {
+	@Test
+	public void Test1() {
+		log.info("aaaaaaaaaaaaaaaaaaaaaa");
+	}
+}

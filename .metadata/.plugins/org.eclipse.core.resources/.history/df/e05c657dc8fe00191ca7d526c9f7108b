@@ -1,0 +1,14 @@
+package org.zerock.service;
+
+public class TimeServiceImpl implements TimeService{
+	
+	@Setter(onMethod_= @Autowired)
+	private TimeMapper timemapper;
+	
+	@Override
+	public String now() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

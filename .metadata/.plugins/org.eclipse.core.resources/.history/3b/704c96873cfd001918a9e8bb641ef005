@@ -1,0 +1,6 @@
+package org.kakarrot.mapper;
+
+public interface TimeMapper {
+	@Se
+	public String getTime();
+}

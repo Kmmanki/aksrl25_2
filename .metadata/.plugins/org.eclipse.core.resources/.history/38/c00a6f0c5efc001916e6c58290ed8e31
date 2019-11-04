@@ -1,0 +1,11 @@
+package org.kakarro.sample;
+
+public class Sush implements Chef {
+
+	@Override
+	public void cook() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
