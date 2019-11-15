@@ -103,7 +103,16 @@
 		<item value="org.springsource.sts:3.9.9.201906181741-RELEASE"/>
 	</list>
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\k\Documents\카카오톡 받은 파일\1107\1107"/>
 		<item value="C:\Users\k\Downloads\Mangit-master\Mangit-master\1104_gogo"/>
 		<item value="C:\Users\k\Downloads\Mangit-master"/>
 	</list>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.ui.wizards.new.project"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
 </section>

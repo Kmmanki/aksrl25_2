@@ -38,7 +38,7 @@
 	 
 	 
 	 
-	<!--  <!-- 오라클 -->
+	<!--  오라클 -->
 	 	<bean id="hikariConfig" class="com.zaxxer.hikari.HikariConfig">
 		<property name="driverClassName"
 			value="oracle.jdbc.driver.OracleDriver"></property>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<mapper namespace = "org.kakarrot.mapper.TimeMapper"></mapper>
-
-<select id ="getTime2" result="String">
-select now()
-</select>

@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
-<aop-project name="1106"/>
-<aop-project name="1104"/>
-<aop-project name="1107"/>
-<aop-project name="1105"/>
-<aop-project name="kakarrot"/>
-<aop-project name="newnewne"/>
 <aop-project name="1104_gogo"/>
-<aop-project name="kakrrotSetTest"/>
+<aop-project name="1107_inClassTime_soo"/>
+<aop-project name="1107_alone_board"/>
 </aop-reference-model>

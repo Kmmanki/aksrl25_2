@@ -1,5 +1,5 @@
 #Tomcat publish data
-#Wed Nov 06 16:52:54 KST 2019
-org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\k\\.m2\\repository\\org\\springframework\\spring-web\\5.1.7.RELEASE\\spring-web-5.1.7.RELEASE.jar=C\:\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\1104\\WEB-INF\\lib\\spring-web-5.1.7.RELEASE.jar
-org.eclipse.jst.jee.server\:kakarrot=C\:\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\kakarrot
-org.eclipse.jst.jee.server\:1104=C\:\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\1104
+#Tue Nov 12 11:34:10 KST 2019
+org.eclipse.jst.jee.server\:1104_gogo=C\:\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\1104_gogo
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\k\\.m2\\repository\\org\\springframework\\spring-web\\5.1.7.RELEASE\\spring-web-5.1.7.RELEASE.jar=C\:\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\1107_inClassTime_soo\\WEB-INF\\lib\\spring-web-5.1.7.RELEASE.jar
+org.eclipse.jst.jee.server\:1107_inClassTime_soo=C\:\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\1107_inClassTime_soo
